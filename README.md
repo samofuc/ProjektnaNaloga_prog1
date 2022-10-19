@@ -1,4 +1,4 @@
-#Najbolji avti na avto.net
+#Najboljši avti na avto.net
 
 Analiziral bom prvih 1000 avtov glede prevožene kilometre.
 
